@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link1</name>
+			<type>2</type>
+			<location>C:/Users/lenovo/.p2/pool/plugins/com.jaspersoft.studio.bundles.batik_1.9.0.b02</location>
+		</link>
+		<link>
+			<name>.link2</name>
+			<type>2</type>
+			<location>C:/Users/lenovo/.p2/pool/plugins/com.jaspersoft.studio.bundles.itext_2.1.7.js6_b02</location>
+		</link>
+		<link>
+			<name>.link3</name>
+			<type>2</type>
+			<location>C:/Users/lenovo/.p2/pool/plugins/com.jaspersoft.studio.bundles.poi_3.15.0.b03</location>
+		</link>
+	</linkedResources>
+</projectDescription>

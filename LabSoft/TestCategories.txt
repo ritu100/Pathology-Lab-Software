@@ -1,0 +1,9 @@
+Microbiology: Bacteriology, Mycobacteriology, Mycology, Parasitology, Virology
+Serology: Syphilis Serology, General Immunology
+Chemistry: Routine Chemistry, Endocrinology, Toxicology, Urinalysis
+Hematology
+Immunohematology: ABO Grouping and Rh typing, Unexpected antibody detection, Compatibility testing, Unexpected antibody identification
+Pathology: Cytology, Histopathology, Oral Pathology
+Radiobioassay
+Histocompatibility
+Cytogenetics
